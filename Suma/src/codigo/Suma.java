@@ -14,7 +14,7 @@ public class Suma {
 	}
 	
 	public void setB(int b ){
-		this.b=b;
+		this.a=a;
 	}
 	
 	public int sumar(){
